@@ -1,0 +1,8 @@
+{
+  "name": "recursos-pedagogicos-piura",
+  "version": "1.0.0",
+  "description": "Generador de recursos pedagógicos - I.E. Nuestra Señora de las Mercedes - Piura",
+  "scripts": {
+    "dev": "vercel dev"
+  }
+}
